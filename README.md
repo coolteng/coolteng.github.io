@@ -7,6 +7,12 @@ README《機械手臂展示說明檔》
 ****
 ### Author:鄧崇林
 ### E-mail:coolteng@gmail.com
+### 建置本網站的用意
+1. 製作客戶端的 JavaScript 動態網頁設計，重點放在動態啟動互動式 Applet 小程式。
+2. 不用熟悉git命令，沒錯，這一項可以完全忽略，單純透過網頁操作，就能制霸部署 GitHub 網站。
+3. 從零奇巧搭建 GitHub 個人網站，先新建《GitHub 個人網站》，後建《網頁倉庫》，再加以整合而成。
+4. 製作由 StrapDown.js 封裝 Markdown 文檔，進而動態轉成 HTML 格式的應用技巧，線上說明就是這樣製作而成的。
+5. 提供線上互動學習機械手臂其背後的正向運動學（Forward Kinematics），以及逆向運動學（Inverse Kinematics）。
 ****
 ## 🏁 目錄
 * [👍建置本網站的用意](#建置本網站的用意)
@@ -16,14 +22,7 @@ README《機械手臂展示說明檔》
 * [👍機械臂互動式示範內容概要](#機械臂互動式示範內容概要)
 ------
 
-### 建置本網站的用意
-1. 製作客戶端的 JavaScript 動態網頁設計，重點放在動態啟動互動式 Applet 小程式。
-2. 不用熟悉git命令，沒錯，這一項可以完全忽略，單純透過網頁操作，就能制霸部署 GitHub 網站。
-3. 從零奇巧搭建 GitHub 個人網站，先新建《GitHub 個人網站》，後建《網頁倉庫》，再加以整合而成。
-4. 製作由 StrapDown.js 封裝 Markdown 文檔，進而動態轉成 HTML 格式的應用技巧，線上說明就是這樣製作而成的。
-5. 提供線上互動學習機械手臂其背後的正向運動學（Forward Kinematics），以及逆向運動學（Inverse Kinematics）。
 
-------
 <h3 id="clteng">線上驗證 Java 版本</h3> 
 
 <1<線上驗證 Java 版本>>https://java.com/zh_TW/download/installed8.jsp
