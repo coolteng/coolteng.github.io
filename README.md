@@ -9,6 +9,6 @@ README
 ****
 ## 目录
 ### 链接本仓库里的URL
-[機械手臂展示](/index.html)
+[機械手臂展示](https://coolteng.github.io/)
 
-(/myPage/gif/JavaSafedUrlSetting.PNG)
+![IEsetting](/myPage/gif/JavaSafedUrlSetting.PNG "")
