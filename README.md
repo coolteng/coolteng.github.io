@@ -14,7 +14,7 @@ README《機械手臂展示說明檔》
 * [機械臂互動式示範教學](#機械臂互動式示範教學)
 * [機械臂互動式示範內容概要](#機械臂互動式示範內容概要)
 
-### 線上驗證%20Java%20版本
+### 線上驗證 Java 版本
 ------
 <1<線上驗證 Java 版本>>https://java.com/zh_TW/download/installed8.jsp
 +>Chrome 及Edge 瀏覽器不支援 NPAPI 外掛程式，因此將不會執行所有 Java 內容。請切換為其他瀏覽器 (Internet Explorer 或是 Safari (Mac)) 以執行 Java 外掛程式。
