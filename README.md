@@ -1,10 +1,10 @@
 README《機械手臂展示說明檔》
 ====
-# coolteng.github.io
+# [《互動式機械臂示範教材網站》](https://coolteng.github.io/)[coolteng.github.io](https://coolteng.github.io/)
 
 该文件用来测试和展示书写README的各种markdown语法。GitHub的markdown语法在标准的markdown语法基础上做了扩充，称之为`GitHub Flavored Markdown`。简称`GFM`，GFM在GitHub上有广泛应用，除了README文件外，issues和wiki均支持markdown语法。
-<0<互動式機械臂示範教材網站>>http://www.coolteng.heliohost.org/armdemo/
-+>鄧崇林製作的機械臂示範教材網站會用到筆者製作的互動式 Applet 小程式，必須①用 Internet Explorer 瀏覽器以及②設定例外網站清才能正常執行。
+<<互動式機械臂示範教材網站>>https://coolteng.github.io/
+由於鄧崇林製作的機械臂示範教材網站會用到筆者製作的互動式 Applet 小程式，必須①用 Internet Explorer 瀏覽器以及②設定例外網站清才能正常執行。
 [機械手臂展示](https://coolteng.github.io/)
 ****
 ### Author:果冻虾仁
@@ -12,9 +12,9 @@ README《機械手臂展示說明檔》
 ****
 ## 目錄
 * [線上驗證 Java 版本](#線上驗證 Java 版本)
-
-
-
+* [設定例外網站清單](#設定例外網站清單)
+* [機械臂互動式示範教學](#機械臂互動式示範教學)
+* [ 機械臂互動式示範內容概要](# 機械臂互動式示範內容概要)
 
 ### 線上驗證 Java 版本
 ------
@@ -22,6 +22,7 @@ README《機械手臂展示說明檔》
 +>Chrome 及Edge 瀏覽器不支援 NPAPI 外掛程式，因此將不會執行所有 Java 內容。請切換為其他瀏覽器 (Internet Explorer 或是 Safari (Mac)) 以執行 Java 外掛程式。
 +>若本地機器無 Java執行環境，也請先安裝 Java。
 
+### 設定例外網站清單
 <2<設定例外網站清單>>https://www.java.com/zh_TW/download/faq/exception_sitelist.xml
 +>從 Java 7 Update 11 版開始，Java 已經預設在高安全性設定中封鎖自行簽署和未簽署的 Applet 應用程式
 +>從 Java 7 Update 51 版本開始導入了例外網站清單功能
@@ -40,9 +41,11 @@ README《機械手臂展示說明檔》
 ![IEsetting](https://coolteng.github.io/myPage/gif/JavaSafedUrlSetting.PNG "")
 2.6 按一下「安全性警告」對話方塊中的【繼續】按鈕。
 
+### 機械臂互動式示範教學
 <3[機械臂互動式示範教學]>
 +>開啟 Internet Explorer 瀏覽器並輸入網址：https://coolteng.github.io/
 
+### 機械臂互動式示範內容概要
 <4[機械臂互動式示範教材概要]>
 4.1 看機械手臂如何延伸我們疆界且帶出無限想像力
 4.1.1 機械手臂有探險：助人進行危險環境探索示範
