@@ -24,13 +24,13 @@ README《機械手臂展示說明檔》
 | 4.5.5 | 構想對：3D模擬七軸機械臂是要達到什麼樣的境界| 
 
 
-<h3 id="clteng">線上驗證 Java 版本</h3> 
+<h3 id="clteng">1.線上驗證 Java 版本</h3> 
 ------
 <1<線上驗證 Java 版本>>https://java.com/zh_TW/download/installed8.jsp
 +>Chrome 及Edge 瀏覽器不支援 NPAPI 外掛程式，因此將不會執行所有 Java 內容。請切換為其他瀏覽器 (Internet Explorer 或是 Safari (Mac)) 以執行 Java 外掛程式。
 +>若本地機器無 Java執行環境，也請先安裝 Java。
 
-### 設定例外網站清單
+##2.# 設定例外網站清單
 <2<設定例外網站清單>>https://www.java.com/zh_TW/download/faq/exception_sitelist.xml
 +>從 Java 7 Update 11 版開始，Java 已經預設在高安全性設定中封鎖自行簽署和未簽署的 Applet 應用程式
 +>從 Java 7 Update 51 版本開始導入了例外網站清單功能
