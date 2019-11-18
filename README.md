@@ -11,4 +11,4 @@ README
 ### 链接本仓库里的URL
 [機械手臂展示](https://coolteng.github.io/)
 
-[IEsetting](https://coolteng.github.io/myPage/gif/JavaSafedUrlSetting.PNG "")
+![IEsetting](https://coolteng.github.io/myPage/gif/JavaSafedUrlSetting.PNG "")
