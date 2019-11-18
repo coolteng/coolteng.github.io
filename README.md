@@ -7,7 +7,7 @@ README《機械手臂展示說明檔》
 ****
 ### Author:鄧崇林
 ### E-mail:coolteng@gmail.com
-### 建置本網站的用意
+### 👍建置本網站的用意
 1. 製作客戶端的 JavaScript 動態網頁設計，重點放在動態啟動互動式 Applet 小程式。
 2. 不用熟悉git命令，沒錯，這一項可以完全忽略，單純透過網頁操作，就能制霸部署 GitHub 網站。
 3. 從零奇巧搭建 GitHub 個人網站，先新建《GitHub 個人網站》，後建《網頁倉庫》，再加以整合而成。
@@ -16,20 +16,24 @@ README《機械手臂展示說明檔》
 6. 支持線上互動學習機械手臂其背後的正向運動學（Forward Kinematics），以及逆向運動學（Inverse Kinematics）。
 ****
 ## 🏁 目錄
-* [👍建置本網站的用意](#建置本網站的用意)
+* [👍建置本網站的用意](#👍建置本網站的用意)
 * [👍線上驗證 Java 版本](#clteng)
-* [👍設定例外網站清單](#設定例外網站清單)
-* [👍機械臂互動式示範教學](#機械臂互動式示範教學)
-* [👍機械臂互動式示範內容概要](#機械臂互動式示範內容概要)
+* [👍設定例外網站清單](#👍設定例外網站清單)
+* [👍機械臂互動式示範教學](#👍機械臂互動式示範教學)
+* [👍機械臂互動式示範內容概要](#👍機械臂互動式示範內容概要)
 ------
 
 <h3 id="clteng">線上驗證 Java 版本</h3> 
-- Oracle's [線上驗證 Java 版本](https://java.com/zh_TW/download/installed8.jsp)
+
+- Oracle's [線上驗證 Java 版本](
+https://java.com/zh_TW/download/installed8.jsp
+)
 - Chrome 及Edge 瀏覽器不支援 NPAPI 外掛程式，因此將不會執行所有 Java 內容。請切換為其他瀏覽器 (Internet Explorer 或是 Safari (Mac)) 以執行 Java 外掛程式。
 - 若本地機器無 Java執行環境，也請先安裝 Java。
+
 ------
 
-### 設定例外網站清單
+### 👍設定例外網站清單
 - [設定例外網站清單說明](https://www.java.com/zh_TW/download/faq/exception_sitelist.xml)
 - 從 Java 7 Update 11 版開始，Java 已經預設在高安全性設定中封鎖自行簽署和未簽署的 Applet 應用程式
 - 從 Java 7 Update 51 版本開始導入了例外網站清單功能
@@ -48,11 +52,11 @@ README《機械手臂展示說明檔》
 * 2.6.按一下前述「安全性警告」對話方塊中的【繼續】按鈕。
 
 ------
-### 機械臂互動式示範教學
+### 👍機械臂互動式示範教學
 - [機械臂互動式示範教學，開啟 Internet Explorer 瀏覽器並輸入網址：https://coolteng.github.io/
 
 --------------
-### 機械臂互動式示範內容概要
+### 👍機械臂互動式示範內容概要
 - 4.1 👍🏽 看機械手臂如何延伸我們疆界且帶出無限想像力
 
 | 選單號 | 選單名稱與解釋  |
