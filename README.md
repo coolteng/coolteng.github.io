@@ -9,10 +9,10 @@ README《機械手臂展示說明檔》
 ### E-mail:Jelly.K.Wang@qq.com
 ****
 ## 目錄
-* [線上驗證 Java 版本](#clteng)
-* [設定例外網站清單](#設定例外網站清單)
-* [機械臂互動式示範教學](#機械臂互動式示範教學)
-* [機械臂互動式示範內容概要](#機械臂互動式示範內容概要)
+1. [線上驗證 Java 版本](#clteng)
+* [設定例外網站清單](#2.設定例外網站清單)
+* [機械臂互動式示範教學](#3.機械臂互動式示範教學)
+* [機械臂互動式示範內容概要](#4.機械臂互動式示範內容概要)
 
 
 | 選單號 | 居中  |
@@ -30,7 +30,7 @@ README《機械手臂展示說明檔》
 +>Chrome 及Edge 瀏覽器不支援 NPAPI 外掛程式，因此將不會執行所有 Java 內容。請切換為其他瀏覽器 (Internet Explorer 或是 Safari (Mac)) 以執行 Java 外掛程式。
 +>若本地機器無 Java執行環境，也請先安裝 Java。
 
-##2.# 設定例外網站清單
+### 2.設定例外網站清單
 <2<設定例外網站清單>>https://www.java.com/zh_TW/download/faq/exception_sitelist.xml
 +>從 Java 7 Update 11 版開始，Java 已經預設在高安全性設定中封鎖自行簽署和未簽署的 Applet 應用程式
 +>從 Java 7 Update 51 版本開始導入了例外網站清單功能
@@ -49,12 +49,12 @@ README《機械手臂展示說明檔》
 ![IEsetting](https://coolteng.github.io/myPage/gif/JavaSafedUrlSetting.PNG "")
 2.6 按一下「安全性警告」對話方塊中的【繼續】按鈕。
 
-### 機械臂互動式示範教學
+### 3.機械臂互動式示範教學
 <3[機械臂互動式示範教學]>
 +>開啟 Internet Explorer 瀏覽器並輸入網址：https://coolteng.github.io/
 
 
-### 機械臂互動式示範內容概要
+### 4.機械臂互動式示範內容概要
 
 4[機械臂互動式示範教材概要]>
 - 4.1 👍🏽 看機械手臂如何延伸我們疆界且帶出無限想像力
