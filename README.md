@@ -1,10 +1,8 @@
 README《機械手臂展示說明檔》
 ====
-# [《互動式機械臂示範教材網站》](https://coolteng.github.io/)[coolteng.github.io](https://coolteng.github.io/)
+# [《互動式機械臂示範教材展示》](https://coolteng.github.io/)[coolteng.github.io](https://coolteng.github.io/)
 
-该文件用来测试和展示书写README的各种markdown语法。GitHub的markdown语法在标准的markdown语法基础上做了扩充，称之为`GitHub Flavored Markdown`。简称`GFM`，GFM在GitHub上有广泛应用，除了README文件外，issues和wiki均支持markdown语法。
-<<互動式機械臂示範教材網站>>https://coolteng.github.io/
-由於鄧崇林製作的機械臂示範教材網站會用到筆者製作的互動式 Applet 小程式，必須①用 Internet Explorer 瀏覽器以及②設定例外網站清才能正常執行。
+此<<互動式機械臂示範教材網站>>https://coolteng.github.io/ 乃由鄧崇林從零奇巧搭建GitHub個人網站所建成，由於會用到筆者過去製作的互動式 Applet 小程式，然而谷歌Chrome 及微軟Edge 瀏覽器不再支援此小程式，因此必須①用 Internet Explorer 瀏覽器以及②設定例外網站清才能正常執行。
 [機械手臂展示](https://coolteng.github.io/)
 ****
 ### Author:果冻虾仁
@@ -14,7 +12,7 @@ README《機械手臂展示說明檔》
 * [線上驗證 Java 版本](#線上驗證 Java 版本)
 * [設定例外網站清單](#設定例外網站清單)
 * [機械臂互動式示範教學](#機械臂互動式示範教學)
-* [ 機械臂互動式示範內容概要](# 機械臂互動式示範內容概要)
+* [機械臂互動式示範內容概要](#機械臂互動式示範內容概要)
 
 ### 線上驗證 Java 版本
 ------
