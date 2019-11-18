@@ -23,7 +23,7 @@ README《機械手臂展示說明檔》
 * [👍機械臂互動式示範內容概要](#👍機械臂互動式示範內容概要)
 ------
 
-<h3 id="clteng">線上驗證 Java 版本</h3> 
+<h3 id="clteng">👍線上驗證 Java 版本</h3> 
 
 - Oracle's [線上驗證 Java 版本](
 https://java.com/zh_TW/download/installed8.jsp
