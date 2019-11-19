@@ -55,12 +55,12 @@ https://java.com/zh_TW/download/installed8.jsp
 ------
 ### 機械臂互動式示範教學
 - 機械臂互動式示範教學，開啟 Internet Explorer 瀏覽器並輸入網址：https://coolteng.github.io/
-- 成功開啟後的畫面如下圖所示(會與瀏覽器不同而有差異)：
+- 成功開啟後的畫面如下圖所示(會與瀏覽器不同而有差異)，若點擊畫面左下角選項，也能線上閱讀說明：
 >![clt02](https://coolteng.github.io/myPage/armMenu/擷取m00.PNG "")
 
 - 如用微軟 Edge 瀏覽器時，請依下圖切換成 IE 瀏覽器：
 >![clt03](https://coolteng.github.io/myPage/armMenu/擷取m001由Edge切換IE.PNG "")
-【
+
 -微軟 IE 瀏覽器初次執行本機械臂互動網頁時會出現下圖警示，請續按【稍後詢問我】即可
 >![clt04](https://coolteng.github.io/myPage/armMenu/擷取m002續按稍後詢問我.PNG "")
 
@@ -260,7 +260,7 @@ https://java.com/zh_TW/download/installed8.jsp
 ### arm25
 
 * 正向運動學模擬：機械手臂三連桿角度互動示範
-* 拉動左側垂直滑桿可對應控制同色系的手臂部位
+* 此為互動式 Applet 小程式，拉動左側垂直滑桿可對應控制同色系的手臂部位
 >![arm25](https://coolteng.github.io/myPage/armMenu/擷取m25拉動左側垂直滑桿可對應控制同色系的手臂部位.PNG "")
 
 * [回單元](#機械臂互動式示範內容概要)
