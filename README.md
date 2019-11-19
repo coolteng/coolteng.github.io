@@ -48,9 +48,9 @@ https://java.com/zh_TW/download/installed8.jsp
   * 2.4.1.URL：https://coolteng.github.io/
   * 2.4.2.URL：http://robotics.ee.uwa.edu.au
 * 2.5.按一下【確定】按鈕以儲存您輸入的 URL，如下圖所示。如果按一下【取消】按鈕，則不會儲存 URL。
-![IEsetting](https://coolteng.github.io/myPage/armMenu/JavaSafedUrlSetting.PNG "")
-![IEsetting1](./myPage/armMenu/JavaSafedUrlSetting.PNG "")
-* 2.6.按一下前述「安全性警告」對話方塊中的【繼續】按鈕。
+![IEsetting]([clt01] "")
+
+* 2.6.按一下前述新生「安全性警告」對話方塊中的【繼續】按鈕。
 
 ------
 ### 機械臂互動式示範教學
@@ -116,3 +116,5 @@ https://java.com/zh_TW/download/installed8.jsp
 | 4.5.5 | 構想對：3D模擬七軸機械臂是要達到什麼樣的境界| 
 
 ----
+
+[clt01]: https://coolteng.github.io/myPage/armMenu/JavaSafedUrlSetting.PNG "定義常用超連結的備註，不會顯示"
