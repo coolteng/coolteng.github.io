@@ -130,7 +130,7 @@ https://java.com/zh_TW/download/installed8.jsp
 ### arm11
 
 * 機械手臂有探險：助人進行危險環境探索示範
-![arm11](https://coolteng.github.io/myPage/armMenu/擷取m11.PNG "")
+>![arm11](https://coolteng.github.io/myPage/armMenu/擷取m11.PNG "")
 
 * [回單元](#機械臂互動式示範內容概要)
  
@@ -139,7 +139,7 @@ https://java.com/zh_TW/download/installed8.jsp
 ### arm12
 
 * 機械手臂有頭腦：與人進行井字遊戲下棋示範
-![arm12](https://coolteng.github.io/myPage/armMenu/擷取m12.PNG "")
+>![arm12](https://coolteng.github.io/myPage/armMenu/擷取m12.PNG "")
 
 * [回單元](#機械臂互動式示範內容概要)
  
@@ -148,7 +148,7 @@ https://java.com/zh_TW/download/installed8.jsp
 ### arm13
 
 * 機械手臂有遊戲：讓人融入競技遊戲臨場示範
-![arm13](https://coolteng.github.io/myPage/armMenu/擷取m13.PNG "")
+>![arm13](https://coolteng.github.io/myPage/armMenu/擷取m13.PNG "")
 
 * [回單元](#機械臂互動式示範內容概要)
  
@@ -157,7 +157,7 @@ https://java.com/zh_TW/download/installed8.jsp
 ### arm14
 
 * 機械手臂有醫療：幫人進行輔助開刀手術示範
-![arm14](https://coolteng.github.io/myPage/armMenu/擷取m14.PNG "")
+>![arm14](https://coolteng.github.io/myPage/armMenu/擷取m14.PNG "")
 
 * [回單元](#機械臂互動式示範內容概要)
  
@@ -166,7 +166,7 @@ https://java.com/zh_TW/download/installed8.jsp
 ### arm15
 
 * 機械手臂有藝術：請人進行素人畫像描繪示範
-![arm15](https://coolteng.github.io/myPage/armMenu/擷取m15.PNG "")
+>![arm15](https://coolteng.github.io/myPage/armMenu/擷取m15.PNG "")
 
 * [回單元](#機械臂互動式示範內容概要)
  
@@ -175,7 +175,7 @@ https://java.com/zh_TW/download/installed8.jsp
 ### arm16
 
 * 機械手臂有舞姿：藝人樣機械人曼妙舞蹈秀場
-![arm16](https://coolteng.github.io/myPage/armMenu/擷取m16.PNG "")
+>![arm16](https://coolteng.github.io/myPage/armMenu/擷取m16.PNG "")
 
 * [回單元](#機械臂互動式示範內容概要)
  
@@ -184,7 +184,7 @@ https://java.com/zh_TW/download/installed8.jsp
 ### arm17
 
 * 機械手臂有包裝：無人生產線上的無隱手示範
-![arm17](https://coolteng.github.io/myPage/armMenu/擷取m17.PNG "")
+>![arm17](https://coolteng.github.io/myPage/armMenu/擷取m17.PNG "")
 
 * [回單元](#機械臂互動式示範內容概要)
  
@@ -192,8 +192,7 @@ https://java.com/zh_TW/download/installed8.jsp
 ### arm18
 
 * 機械手臂有異形：奇人巧思創並聯式機械手臂
-
-![arm18](https://coolteng.github.io/myPage/armMenu/擷取m18.PNG "")
+>![arm18](https://coolteng.github.io/myPage/armMenu/擷取m18.PNG "")
 
 * [回單元](#機械臂互動式示範內容概要)
  
@@ -202,7 +201,7 @@ https://java.com/zh_TW/download/installed8.jsp
 ### arm19
 
 * 機械手臂有不了：猿人意念控機械臂隔空抓物
-![arm19](https://coolteng.github.io/myPage/armMenu/擷取m19.PNG "")
+>![arm19](https://coolteng.github.io/myPage/armMenu/擷取m19.PNG "")
 
 * [回單元](#機械臂互動式示範內容概要)
  
@@ -211,7 +210,7 @@ https://java.com/zh_TW/download/installed8.jsp
 ### arm21
 
 * 機械手臂運動學原理簡易介紹以及應用類型概要
-![arm21](https://coolteng.github.io/myPage/armMenu/擷取m21.PNG "")
+>![arm21](https://coolteng.github.io/myPage/armMenu/擷取m21.PNG "")
 
 * [回單元](#機械臂互動式示範內容概要)
  
@@ -220,8 +219,7 @@ https://java.com/zh_TW/download/installed8.jsp
 ### arm22
 
 * 運動學沒搞好參數的致命慘劇所幸無損機械手臂
-
-![arm22](https://coolteng.github.io/myPage/armMenu/擷取m22.PNG "")
+>![arm22](https://coolteng.github.io/myPage/armMenu/擷取m22.PNG "")
 
 * [回單元](#機械臂互動式示範內容概要)
  
@@ -230,8 +228,7 @@ https://java.com/zh_TW/download/installed8.jsp
 ### arm23
 
 * 正向運動學（Forward Kinematics）自動展示機
-
-![arm23](https://coolteng.github.io/myPage/armMenu/擷取m23.PNG "")
+>![arm23](https://coolteng.github.io/myPage/armMenu/擷取m23.PNG "")
 
 * [回單元](#機械臂互動式示範內容概要)
  
@@ -240,8 +237,7 @@ https://java.com/zh_TW/download/installed8.jsp
 ### arm24
 
 * 逆向運動學（Inverse Kinematics）自動展示機
-
-![arm24](https://coolteng.github.io/myPage/armMenu/擷取m24.PNG "")
+>![arm24](https://coolteng.github.io/myPage/armMenu/擷取m24.PNG "")
 
 * [回單元](#機械臂互動式示範內容概要)
  
@@ -251,8 +247,7 @@ https://java.com/zh_TW/download/installed8.jsp
 
 * 正向運動學模擬：機械手臂三連桿角度互動示範
 * 拉動左側垂直滑桿可對應控制同色系的手臂部位
-
-![arm25](https://coolteng.github.io/myPage/armMenu/擷取m25拉動左側垂直滑桿可對應控制同色系的手臂部位.PNG "")
+>![arm25](https://coolteng.github.io/myPage/armMenu/擷取m25拉動左側垂直滑桿可對應控制同色系的手臂部位.PNG "")
 
 * [回單元](#機械臂互動式示範內容概要)
  
@@ -262,7 +257,7 @@ https://java.com/zh_TW/download/installed8.jsp
 
 * 逆向運動學模擬：文字選單設手掌角度互動示範
 * 左右拉動下方水平角度數值可控制手爪俯仰角的運動設定
-![arm26](
+>![arm26](
 https://coolteng.github.io/myPage/armMenu/擷取m26左右拉動下方水平角度數值可控制手爪俯仰角的運動設定.PNG ""
 )
 
@@ -274,7 +269,7 @@ https://coolteng.github.io/myPage/armMenu/擷取m26左右拉動下方水平角�
 
 * 逆向運動學模擬：垂直滑桿設手掌角度互動示範
 * 上下拉動左側垂直滑桿之角度數值可控制手爪俯仰角的運動設定
-![arm27](
+>![arm27](
 https://coolteng.github.io/myPage/armMenu/擷取m27上下拉動左側垂直滑桿之角度數值可控制手爪俯仰角的運動設定.PNG ""
 )
 
@@ -285,8 +280,9 @@ https://coolteng.github.io/myPage/armMenu/擷取m27上下拉動左側垂直滑�
 
 * 逆向運動學模擬：水平滑桿設手掌角度互動示範
 * 左右拉動下方水平滑桿可控制手爪俯仰角的運動設定
-
-![arm28](https://coolteng.github.io/myPage/armMenu/擷取m28左右拉動下方水平滑桿可控制手爪俯仰角的運動設定.PNG "")
+>![arm28](
+https://coolteng.github.io/myPage/armMenu/擷取m28左右拉動下方水平滑桿可控制手爪俯仰角的運動設定.PNG ""
+)
 
 * [回單元](#機械臂互動式示範內容概要)
  
@@ -296,7 +292,7 @@ https://coolteng.github.io/myPage/armMenu/擷取m27上下拉動左側垂直滑�
 
 * 水平滑桿調值與三個垂直滑桿顯示各角度出狀況
 * 左右拉動下方水平滑桿可控制手爪俯仰角的運動設定
-![arm29](https://coolteng.github.io/myPage/armMenu/擷取m29左右拉動下方水平滑桿可控制手爪俯仰角的運動設定.PNG "")
+>![arm29](https://coolteng.github.io/myPage/armMenu/擷取m29左右拉動下方水平滑桿可控制手爪俯仰角的運動設定.PNG "")
 
 * [回單元](#機械臂互動式示範內容概要)
  
@@ -317,7 +313,7 @@ https://coolteng.github.io/myPage/armMenu/擷取m2A左右拉動下方水平滑�
 ### arm31
 
 * 六軸機械手臂之機構選材以及伺服馬達等等組裝
-![arm31](https://coolteng.github.io/myPage/armMenu/擷取m31.PNG "")
+>![arm31](https://coolteng.github.io/myPage/armMenu/擷取m31.PNG "")
 
 * [回單元](#機械臂互動式示範內容概要)
  
@@ -325,7 +321,7 @@ https://coolteng.github.io/myPage/armMenu/擷取m2A左右拉動下方水平滑�
 ### arm32
 
 * 六軸機械手臂所用伺服馬達控制理論分析與應用
-![arm32](https://coolteng.github.io/myPage/armMenu/擷取m32.PNG "")
+>![arm32](https://coolteng.github.io/myPage/armMenu/擷取m32.PNG "")
 
 * [回單元](#機械臂互動式示範內容概要)
  
@@ -334,7 +330,7 @@ https://coolteng.github.io/myPage/armMenu/擷取m2A左右拉動下方水平滑�
 ### arm33
 
 * 六軸機械手臂之伺服馬達控制校正以及操作限定
-![arm33](https://coolteng.github.io/myPage/armMenu/擷取m33.PNG "")
+>![arm33](https://coolteng.github.io/myPage/armMenu/擷取m33.PNG "")
 
 * [回單元](#機械臂互動式示範內容概要)
  
@@ -344,7 +340,7 @@ https://coolteng.github.io/myPage/armMenu/擷取m2A左右拉動下方水平滑�
 
 * Processing 語言可以很有創意：靈感鳥驚艷現身
 * 靜靜地觀賞飛躍的書本，有如拍動著扉頁的靈感鳥，在無限空間中釋放出非凡創意
-![arm41](https://coolteng.github.io/myPage/armMenu/擷取m41.PNG "")
+>![arm41](https://coolteng.github.io/myPage/armMenu/擷取m41.PNG "")
 
 * [回單元](#機械臂互動式示範內容概要)
  
@@ -354,7 +350,7 @@ https://coolteng.github.io/myPage/armMenu/擷取m2A左右拉動下方水平滑�
 
 * Processing 語言可以很有手感：網狀彈性絲布料
 * 用滑鼠點按網線托拉移位後再放下後有動態現象發生
-![arm42](https://coolteng.github.io/myPage/armMenu/擷取m42滑鼠點按網線托拉移位後再放下後有動態現象發生.PNG "")
+>![arm42](https://coolteng.github.io/myPage/armMenu/擷取m42滑鼠點按網線托拉移位後再放下後有動態現象發生.PNG "")
 
 * [回單元](#機械臂互動式示範內容概要)
  
@@ -364,7 +360,7 @@ https://coolteng.github.io/myPage/armMenu/擷取m2A左右拉動下方水平滑�
 
 * Processing 語言可以很有層次：3D空間立體走秀
 * 在畫面中上下移動滑鼠會有動態現象發生
-![arm43](https://coolteng.github.io/myPage/armMenu/擷取m43在畫面中上下移動滑鼠會有動態現象發生.PNG "")
+>![arm43](https://coolteng.github.io/myPage/armMenu/擷取m43在畫面中上下移動滑鼠會有動態現象發生.PNG "")
 
 * [回單元](#機械臂互動式示範內容概要)
  
@@ -374,7 +370,7 @@ https://coolteng.github.io/myPage/armMenu/擷取m2A左右拉動下方水平滑�
 
 * Processing 語言可以很有激情：模擬煙火般燦爛
 * 在畫面中上下隨處點按滑鼠會有動態現象發生
-![arm44](https://coolteng.github.io/myPage/armMenu/擷取m44在畫面中上下隨處點按滑鼠會有動態現象發生.PNG "")
+>![arm44](https://coolteng.github.io/myPage/armMenu/擷取m44在畫面中上下隨處點按滑鼠會有動態現象發生.PNG "")
 
 * [回單元](#機械臂互動式示範內容概要)
  
@@ -384,7 +380,7 @@ https://coolteng.github.io/myPage/armMenu/擷取m2A左右拉動下方水平滑�
 
 * Processing 語言可以很有契合：開放及各種整合
 * 只能在IE中有條件顯示，這是故意布置的作業，需要指出為什麼會這樣
-![arm45](https://coolteng.github.io/myPage/armMenu/擷取m45只能在IE中有條件顯示.PNG "")
+>![arm45](https://coolteng.github.io/myPage/armMenu/擷取m45只能在IE中有條件顯示.PNG "")
 
 * [回單元](#機械臂互動式示範內容概要)
  
@@ -393,7 +389,7 @@ https://coolteng.github.io/myPage/armMenu/擷取m2A左右拉動下方水平滑�
 ### arm51
 
 * 思考題：控制這台機械手臂是採什麼樣的運動學
-![arm51](https://coolteng.github.io/myPage/armMenu/擷取m51.PNG "")
+>![arm51](https://coolteng.github.io/myPage/armMenu/擷取m51.PNG "")
 
 * [回單元](#機械臂互動式示範內容概要)
  
@@ -402,7 +398,7 @@ https://coolteng.github.io/myPage/armMenu/擷取m2A左右拉動下方水平滑�
 ### arm52
 
 * 思考題：鐵達尼號深海探險是採什麼樣機械手
-![arm52](https://coolteng.github.io/myPage/armMenu/擷取m52.PNG "")
+>![arm52](https://coolteng.github.io/myPage/armMenu/擷取m52.PNG "")
 
 * [回單元](#機械臂互動式示範內容概要)
  
@@ -420,7 +416,7 @@ https://coolteng.github.io/myPage/armMenu/擷取m2A左右拉動下方水平滑�
 ### arm54
 
 * 隆中對：2D模擬機械臂之後是要迎接什麼樣的挑戰
-![arm54](https://coolteng.github.io/myPage/armMenu/擷取m54.PNG "")
+>![arm54](https://coolteng.github.io/myPage/armMenu/擷取m54.PNG "")
 
 * [回單元](#機械臂互動式示範內容概要)
  
@@ -429,7 +425,7 @@ https://coolteng.github.io/myPage/armMenu/擷取m2A左右拉動下方水平滑�
 ### arm55
 
 * 構想對：3D模擬七軸機械臂是要達到什麼樣的境界
-![arm55](https://coolteng.github.io/myPage/armMenu/擷取m55.PNG "")
+>![arm55](https://coolteng.github.io/myPage/armMenu/擷取m55.PNG "")
 
 * [回單元](#機械臂互動式示範內容概要)
  
