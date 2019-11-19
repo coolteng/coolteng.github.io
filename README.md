@@ -49,6 +49,7 @@ https://java.com/zh_TW/download/installed8.jsp
   * 2.4.2.URL：http://robotics.ee.uwa.edu.au
 * 2.5.按一下【確定】按鈕以儲存您輸入的 URL，如下圖所示。如果按一下【取消】按鈕，則不會儲存 URL。
 ![IEsetting](https://coolteng.github.io/myPage/gif/JavaSafedUrlSetting.PNG "")
+![IEsetting](/myPage/armMenu/JavaSafedUrlSetting.PNG "")
 * 2.6.按一下前述「安全性警告」對話方塊中的【繼續】按鈕。
 
 ------
