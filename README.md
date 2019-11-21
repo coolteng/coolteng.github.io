@@ -2,7 +2,7 @@ README《機械手臂展示說明檔》
 ====
 # [《互動式機械臂示範教材展示》](http://arm.cool.nctu.me/)[arm.cool.nctu.me](http://arm.cool.nctu.me/)
 
-此<<互動式機械臂示範教材網站>>http://arm.cool.nctu.me/ 乃由鄧崇林從零奇巧搭建GitHub個人網站所建成，由於會用到筆者過去製作的互動式 Applet 小程式，然而谷歌Chrome 及微軟Edge 瀏覽器不再支援此小程式，因此必須①用 Internet Explorer 瀏覽器以及②設定例外網站清才能正常執行。
+此<<互動式機械臂示範教材網站>>http://arm.cool.nctu.me/ 乃由鄧崇林從零奇巧搭建GitHub個人網站所建成，由於會用到筆者過去製作的互動式 Applet 小程式，然而谷歌Chrome 及微軟Edge 瀏覽器不再支援此小程式，因此必須①用 Internet Explorer 瀏覽器以及②設定例外網站清單才能正常執行。
 [機械手臂展示](http://arm.cool.nctu.me/)
 ****
 ### Author:鄧崇林
