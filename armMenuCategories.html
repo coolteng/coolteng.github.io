@@ -3,18 +3,51 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-
 <link href="myPage/css/main.css" rel="stylesheet" type="text/css" />
 <link rel="stylesheet" href="/teng/carouselMenu/css/index.css" />
 <link href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css' rel='stylesheet'/>
-</head>
+<style>
+button {
+  width: 200px;
+  height: 100px;
+  //border-radius: 30px;
+  /* 不管用
+  font-size: 88px;
+  font-weight: 700;
+  */
+}
+
+button.mbtn {
+  padding:0.6em 2em;
+  border-radius: 25px;
+  color:#fff;  // 白字
+  background-color:#1976d2;
+  //font-size:1.1em;
+  //font-size:0.8em; // 框與字一起變大
+  border:0;
+  cursor:pointer;
+  margin:1em;
+}
+
+button.mbtn.green
+{
+    background-color:#2e7d32;
+}
+
+button.mbtn.red
+{
+    background-color:#c62828;
+}
+</style>
+ </head>
 <body>
 <div id="header-wrap">
   <div id="header-container">
     <div id="header">
 <H1 align=left>機械手臂很有看頭<em>
- <a href="myPage/index.html" target="cltShow">
- <span><i class='fa fa-facebook-official'> 前往創意好好玩</i></span></a><font color="red">需IE與JAVA互動環境</font></em></H1>
+ <button class="mbtn red" style="font-size:24px" onclick="cltShow.location.href='myPage/index.htm';">
+ <i class="fa fa-arrow-circle-o-right"></i> 閱讀說明</button>
+  <font color="red">需IE與JAVA互動環境</font></em></H1>
     </div>
   </div>
 </div>                                                              
